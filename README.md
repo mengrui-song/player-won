@@ -1,10 +1,8 @@
 # 🎮 PlayerWon
 
-Project description goes here
 
 _An app connects game players and provide them a platform to exchange gaming skills_
 <br>
-App home: https://WHATEVER.herokuapp.com
    
 
 ## Getting Started
